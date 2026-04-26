@@ -3,17 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend%20Developer&fontSize=70" />
 </p>
 
-<h3 align="center">A passionate frontend developer from Kazakhstan 🇰🇿</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adwayne&label=Profile%20views&color=0e75b6&style=flat" alt="adwayne" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adwayne&theme=flat&column=7" alt="adwayne" />
-  </a>
-</p>
+<h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 
 ---
 
@@ -55,19 +45,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=adwayne&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adwayne&theme=vision-friendly-dark" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=adwayne&show_icons=true&theme=vision-friendly-dark&count_private=true" />
-</p>
 
 ---
 
